@@ -7,7 +7,7 @@ delay = 0.1
 # 设置屏幕
 wn = turtle.Screen()
 wn.title("我的第一个 GitHub 项目：贪吃蛇")
-wn.bgcolor("white")
+wn.bgcolor("grey")
 wn.setup(width=600, height=600)
 wn.tracer(0) 
 
